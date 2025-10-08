@@ -1,4 +1,14 @@
-# 🛒 Sistema de E-Commerce em Java (Console)
+# 🏗️ Estrutura do Repositório
+
+## 📂 javaclasico
+Projeto em Java clássico - E-commerce tradicional
+
+## 📂 java8funcional  
+Projeto em Java 8 - E-commerce com programação funcional
+
+![Diagrama dos Projetos](./imagens/diagramacasoUso.png)
+
+### 🛒 Sistema de E-Commerce em Java Clásico (Console)
 
 Este projeto é um **sistema simples de E-Commerce**, sem banco de dados.
 
@@ -32,26 +42,26 @@ Este projeto é um **sistema simples de E-Commerce**, sem banco de dados.
 
 ---
 
-## 🚀 Funcionalidades
+### 🚀 Funcionalidades
 
-### Clientes
+#### Clientes
 - Cadastrar clientes (verificação de maioridade)
 - Listar clientes cadastrados
 - Atualizar dados (sem exclusão)
 
-### Produtos
+#### Produtos
 - Cadastrar novos produtos
 - Listar produtos cadastrados
 - Atualizar dados (sem exclusão)
 
-### Pedidos
+#### Pedidos
 - Criar pedidos para clientes
 - Adicionar/Remover itens (com preço e quantidade)
 - Alterar quantidade
 - Finalizar, pagar e entregar pedidos
 - Notificação simulada por e-mail no console
 
-### Demonstração Automática
+#### Demonstração Automática
 - Há uma opção **"Exemplo de Caso de Uso"** que executa automaticamente um fluxo completo:
   1. Criação de cliente e produtos  
   2. Criação de pedido  
@@ -60,7 +70,7 @@ Este projeto é um **sistema simples de E-Commerce**, sem banco de dados.
 
 ---
 
-## 🧩 Estrutura de Classes
+### 🧩 Estrutura de Classes
 
 | Classe | Responsabilidade |
 |--------|------------------|
@@ -72,7 +82,7 @@ Este projeto é um **sistema simples de E-Commerce**, sem banco de dados.
 
 ---
 
-## 🧠 Regras de Negócio
+### 🧠 Regras de Negócio
 
 - Todo cliente deve ter documento de identificação e ser **maior de idade**  
 - Pedido inicia com **status = "Aberto"**  
@@ -91,5 +101,18 @@ Este projeto é um **sistema simples de E-Commerce**, sem banco de dados.
 3. Pedidos
 4. Exemplo de Caso de Uso
 0. Sair
+
+## E-commerce Console (Java 8 funcional)
+
+### Descrição
+Sistema simples de e-commerce rodando no console, usando Java 8 (Streams, Optional, Lambdas) e POO.  
+Funcionalidades: cadastro de clientes (verifica maioridade), cadastro de produtos, criação e gerenciamento de pedidos (adicionar/remover itens, finalizar, pagar, entregar), e demonstração automática.
+
+### Estrutura
+- Cliente.java
+- Produto.java
+- ItemPedido.java
+- Pedido.java
+- SistemaECommerce.java
 
 
