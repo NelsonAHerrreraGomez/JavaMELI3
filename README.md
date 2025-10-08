@@ -1,17 +1,8 @@
 # 🏗️ Estrutura do Repositório
 
 ## 📂 Java Clasico
-Projeto em Java clássico - E-commerce tradicional
-
-## 📂 Java 8 Prog Funcional  
-Projeto em Java 8 - E-commerce com programação funcional
-
-<img src="./imagenes/diagramacasoUso.png" width="38%" alt="Diagrama Sequencia">
 
 ### 🛒 Sistema de E-Commerce em Java Clásico (Console)
-
-Este projeto é um **sistema simples de E-Commerce**, sem banco de dados.
-
            +----------------------+
            |      Cliente         |
            +----------------------+
