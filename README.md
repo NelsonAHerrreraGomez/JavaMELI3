@@ -1,9 +1,9 @@
 # 🏗️ Estrutura do Repositório
 
-## 📂 javaclasico
+## 📂 Java Clasico
 Projeto em Java clássico - E-commerce tradicional
 
-## 📂 java8funcional  
+## 📂 Java 8 Prog Funcional  
 Projeto em Java 8 - E-commerce com programação funcional
 
 <img src="./imagenes/diagramacasoUso.png" width="38%" alt="Diagrama Sequencia">
