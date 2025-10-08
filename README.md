@@ -102,7 +102,10 @@ Este projeto é um **sistema simples de E-Commerce**, sem banco de dados.
 4. Exemplo de Caso de Uso
 0. Sair
 
-## E-commerce Console (Java 8 funcional)
+## 📂 Java 8 Prog Funcional  
+Projeto em Java 8 - E-commerce com programação funcional
+
+<img src="./imagenes/diagramacasoUso.png" width="38%" alt="Diagrama Sequencia">
 
 ### Descrição
 Sistema simples de e-commerce rodando no console, usando Java 8 (Streams, Optional, Lambdas) e POO.  
