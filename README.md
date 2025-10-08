@@ -6,7 +6,7 @@ Projeto em Java clássico - E-commerce tradicional
 ## 📂 java8funcional  
 Projeto em Java 8 - E-commerce com programação funcional
 
-![Diagrama dos Projetos](./imagens/diagramacasoUso.png)
+![Diagrama Sequencia](./imagens/diagramacasoUso.png)
 
 ### 🛒 Sistema de E-Commerce em Java Clásico (Console)
 
